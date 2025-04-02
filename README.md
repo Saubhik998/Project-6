@@ -28,10 +28,8 @@ Project-6/
 ## **🛠️ Tech Stack**
 - **Frontend**: React.js (Vite)  
 - **Backend**: .NET 8 Web API  
-- **Database**: MongoDB (GridFS)  
-- **Authentication**: JWT (Optional)  
+- **Database**: MongoDB (GridFS)   
 - **Deployment**: Docker, GitHub Actions  
-
 ---
 
 ## **📌 Prerequisites**
